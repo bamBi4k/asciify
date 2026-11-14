@@ -26,8 +26,6 @@ Wallpaper in, ASCII out. Drop your own images into the `assets/` folder using th
 
 </div>
 
-> **Tip:** Add more examples with `assets/before2.png` / `assets/after2.png` and copy the table row above.
-
 ---
 
 ## Features
@@ -47,7 +45,7 @@ The web UI is served locally by Flask and lets you upload an image, tweak the ou
 
 <img src="assets/ui.png" width="800" alt="Asciify user interface">
 
-<sub>`assets/ui.png` - drop a screenshot of the interface here</sub>
+<sub>`assets/ui.png` </sub>
 
 </div>
 
@@ -68,7 +66,7 @@ Asciify output is built to be pasted straight into Steam:
 
 <img src="assets/steam.png" width="700" alt="Steam ASCII art integration">
 
-<sub>`assets/steam.png` - drop a Steam profile screenshot here</sub>
+<sub>`assets/steam.png` </sub>
 
 </div>
 
